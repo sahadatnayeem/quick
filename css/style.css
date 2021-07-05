@@ -1,0 +1,56 @@
+/*header start*/
+header{
+	/*border: 1px solid green;*/
+	padding: 10px 0 ;
+}
+.container { overflow: hidden;
+	width: 90%;
+	border: 1px solid;
+	margin: 0 auto;
+}
+
+.logo { float: left;
+	width: 10%;
+	border: 1px solid red;
+}       
+.logo a img{
+width: 100%;
+}
+
+.logo img{
+
+}
+
+.menu { 
+	float: right; 
+	width: 40%;
+	border: 1px solid red;
+}
+
+.menu ul{ float: right; 
+	list-style: none;
+
+}
+
+.menu ul li { float: left; 
+
+}
+
+.menu ul li a { text-decoration: none;
+	margin: 0 15px;
+	display: inline-block;
+
+}
+
+.menu ul li a:hover {
+	color: #008AFF;
+}
+.menu ul li:last-child a {
+	margin-right: 0;
+	font-size: ;
+	color:#0F2656;
+	text-transform: capitalize;
+}
+
+/*header end*/
+    
